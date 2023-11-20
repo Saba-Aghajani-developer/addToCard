@@ -7,7 +7,7 @@
 
 - Developed by Saba Aghajani
   
-- Technologies Used - Html5, Css3 , Swiper , React
+- Technologies Used - Html5, Css3 , Tailwind , Swiper , React
 
 - Role - Frontend
 
