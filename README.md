@@ -3,7 +3,7 @@
 ![2](https://github.com/Saba-Aghajani-developer/addToCard/assets/135870519/386ae6bb-327a-4892-a9c3-4bcdeaf11d57)
 ![3](https://github.com/Saba-Aghajani-developer/addToCard/assets/135870519/653d6234-d515-4dc2-ae85-6938f2adca55)
 
-- [Demo Project](https://blubank.vercel.app/)
+- [Demo Project](https://add-to-card-two.vercel.app/)
 
 - Developed by Saba Aghajani
   
